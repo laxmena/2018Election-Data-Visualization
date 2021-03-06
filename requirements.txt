@@ -1,0 +1,16 @@
+Fiona==1.8.18
+GDAL==3.1.4
+geopandas==0.3.0
+matplotlib
+numpy
+pandas
+Pillow
+plotly==4.14.3
+plotly-geo==1.0.0
+Pygments
+pyparsing==2.4.7
+pyshp 
+python-dateutil==2.8.1
+scipy
+seaborn
+Shapely==1.7.1
