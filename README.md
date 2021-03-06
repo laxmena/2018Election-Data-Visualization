@@ -63,8 +63,10 @@ _Note: Setting up Anaconda distribution is highly recommended to run this projec
     <img src="./images/education-votes-distribution.png" style="max-width:100%">
 
 4. **Ethnicity and its impact on voting patterns**
+
  <img src="./images/ethinicity-distribution.png" style="max-width:100%">
 
 5. **Gender and its impact on voting patterns**
+
     <img src="./images/gender-votes-distribution.png" style="max-width:100%">
 
