@@ -4,7 +4,7 @@
 
 ## About
 
-2018 US Senate Election Data-Exploration is a project done as part of the UIC's CS418 Coursework. 
+2018 US Senate Election Data-Exploration is a project done as part of the UIC's CS418 Coursework under Professor Dr. Gonzalo Bello. 
 
 _'election_train.csv'_ and _'demographics_train.csv'_ are the datasets based on which this project has been built. These csv files can be found in the 'data' directory of this repository.
 
