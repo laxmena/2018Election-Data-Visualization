@@ -16,25 +16,21 @@ Report and PDF file of the IPython notebook are available in the **'report'** di
         <th>Name</th>
         <th>UIN</th>
         <th>NetID</th>
-        <th>Role</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/Gnanamanickam">Gnanamanickam Arumugaperumal</a></td>
-        <td>670991279</td>
-        <td>garumu3</td>
-        <td>Project Manager</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/sriman98">Sriman Cherukuru</a></td>
-        <td>659640984</td>
-        <td>scheru4</td>
-        <td>Time keeper</td>
     </tr>
     <tr>
         <td><a href="https://github.com/laxmena">Lakshmanan Meiyappan</a></td>
         <td>671997054</td>
         <td>lmeiya2</td>
-        <td>Scribe</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/sriman98">Sriman Cherukuru</a></td>
+        <td>659640984</td>
+        <td>scheru4</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Gnanamanickam">Gnanamanickam Arumugaperumal</a></td>
+        <td>670991279</td>
+        <td>garumu3</td>
     </tr>
 </table>
 
